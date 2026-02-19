@@ -10,10 +10,10 @@ Aplikasi ini menyimulasikan aliran data berita secara *real-time* dengan antarmu
 *(Tampilan antarmuka aplikasi dengan mode "Clean Slate Light Theme")*
 
 <div align="center">
-  <img width="720" height="1600" alt="Image" src="https://github.com/user-attachments/assets/3a5ec67c-2d7b-4d1f-a4fa-4791d0acdc71" />
-  <img width="720" height="1600" alt="Image" src="https://github.com/user-attachments/assets/51c06855-e9ad-48e0-9be9-38491a5fe7c7" />
-  <img width="720" height="1600" alt="Image" src="https://github.com/user-attachments/assets/2517e896-4aed-40cd-8871-1e9c6dbbe98d" />
-  <img width="720" height="1600" alt="Image" src="https://github.com/user-attachments/assets/5d90dbb4-788b-4be3-b550-c6b0c64764a0" />
+  <img width="200" height="1600" alt="Image" src="https://github.com/user-attachments/assets/3a5ec67c-2d7b-4d1f-a4fa-4791d0acdc71" />
+  <img width="200" height="1600" alt="Image" src="https://github.com/user-attachments/assets/51c06855-e9ad-48e0-9be9-38491a5fe7c7" />
+  <img width="200" height="1600" alt="Image" src="https://github.com/user-attachments/assets/2517e896-4aed-40cd-8871-1e9c6dbbe98d" />
+  <img width="200" height="1600" alt="Image" src="https://github.com/user-attachments/assets/5d90dbb4-788b-4be3-b550-c6b0c64764a0" />
 </div>
 
 ---
